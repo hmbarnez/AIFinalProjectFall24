@@ -18,3 +18,22 @@ This is the [Regressor Test](UsedCarXGBRegressor.ipynb) that worked
 ## Neural Network Test
 This is our [Neural Network](UsedCarNeuralNetworkTest.ipynb) test for our failed dataset <br>
 This is our [Neural Network](UsedCarNeuralNetwork.ipynb) test for our current dataset
+
+## Data collection
+The first step to beginning the project was to select a dataset from Kaggle with the most looked at attributes when purchasing a car such as:
+Make: The brand of the car (e.g., Toyota, Honda)
+Model: The specific model of the car (e.g., Camry, Civic)
+Year: The manufacturing year of the car
+Mileage: The number of miles the car has been driven
+Other characteristics: Features such as engine size, fuel type, color, number of doors, etc..
+
+## Data Preprocessing
+Before the model could be trained, we had to clean and transform the dataset into a useful format. This process involved:
+Handling missing values: Any features missing data were either filled in or removed.
+Encoding categorical variables: For features like make and model which are categorical, the data needed to be converted into numerical values using >>>>>>
+
+## Model selection
+
+We decided to create two machine learning algorithm models : An Xgboost and a Neural network. An Xgboost Regressor which is a supervised machine learning algorithm designed for regression tasks where the goal is to predict a continually fluctuating variable. It is a scalable and efficient implementation fo the gradient boosting method and is known for its high speed, accuracy and flexibility. A neural network model is a type of machine learning model inspired by the function of the human brain. It is highly effective in recognizing patterns, approximations and deriving solutions to problems based on previous data.
+
+
