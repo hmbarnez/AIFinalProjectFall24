@@ -14,3 +14,7 @@ This is the [dataset](used_cars_clean.csv) we ended up using
 ## Regressor Tests
 This is the failed [Regressor Test](XGBoostTest.ipynb) <br>
 This is the [Regressor Test](UsedCarXGBRegressor.ipynb) that worked
+
+## Neural Network Test
+This is our [Neural Network](UsedCarNeuralNetworkTest.ipynb) test for our failed dataset <br>
+This is our [Neural Network](UsedCarNeuralNetwork.ipynb) test for our current dataset
