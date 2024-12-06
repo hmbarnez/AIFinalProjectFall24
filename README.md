@@ -10,5 +10,5 @@ This is the original [dataset](used_cars.csv) we attempted to use
 This is the [dataset](used_cars_clean.csv) we ended up using
 
 ## Regressor Tests
-This is the [failed regressor test](XGBoostTest.ipynb) <br>
-This is the [Regressor test](UsedCarXGBRegressor.ipynb) that worked
+This is the failed [Regressor Test](XGBoostTest.ipynb) <br>
+This is the [Regressor Test](UsedCarXGBRegressor.ipynb) that worked
