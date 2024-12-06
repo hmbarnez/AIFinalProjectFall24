@@ -4,8 +4,11 @@ such as make, model, year, and mileage, leading to suboptimal outcomes. This stu
 <br>
 Our AI model was trained to predict car prices using a dataset from Kaggle, a website hosting a vast repository of datasets that are often used to perform data analysis, visualization, and machine learning. 
 
-## Original Dataset 
+## Dataset 
 This is the original [dataset](used_cars.csv) we attempted to use 
-
-## Current Dataset
+<br>
 This is the [dataset](used_cars_clean.csv) we ended up using
+
+## Regressor Tests
+This is the [failed regressor test](XGBoostTest.ipynb) <br>
+This is the [Regressor test](UsedCarXGBRegressor.ipynb) that worked
