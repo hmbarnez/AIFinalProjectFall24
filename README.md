@@ -36,4 +36,8 @@ Encoding categorical variables: For features like make and model which are categ
 
 We decided to create two machine learning algorithm models : An Xgboost and a Neural network. An Xgboost Regressor which is a supervised machine learning algorithm designed for regression tasks where the goal is to predict a continually fluctuating variable. It is a scalable and efficient implementation fo the gradient boosting method and is known for its high speed, accuracy and flexibility. A neural network model is a type of machine learning model inspired by the function of the human brain. It is highly effective in recognizing patterns, approximations and deriving solutions to problems based on previous data.
 
+## Training the Model
+
+The training stage is where the chosen model learns how the features (car attributes in this case) are related to the target variable (car price). The model then attempts to minimize the error between the predictions and the actual prices by making adjustments to its internal parameters.
+
 
