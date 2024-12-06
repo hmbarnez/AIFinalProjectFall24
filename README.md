@@ -5,4 +5,7 @@ such as make, model, year, and mileage, leading to suboptimal outcomes. This stu
 Our AI model was trained to predict car prices using a dataset from Kaggle, a website hosting a vast repository of datasets that are often used to perform data analysis, visualization, and machine learning. 
 
 ## Original Dataset 
-This is the original [data set](used_cars.csv) we attempted to use 
+This is the original [dataset](used_cars.csv) we attempted to use 
+
+## Current Dataset
+This is the [dataset](used_cars_clean.csv) we ended up using
